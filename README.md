@@ -9,7 +9,7 @@
 * 🌱 I'm a student, dreaming about studying abroad!!
 * 🔭 Still not working on IT, but doing my best.
 
-* 💬 Ask me about **Java, English for DeV.** 
+* 💬 Ask me about **Java, English for Devs.** 
 
 
 ##
