@@ -2,7 +2,6 @@
 
 <h1 align="center"> Olá!  Leonardo May  </h1>
 
-<iframe src="https://giphy.com/embed/fPOm3oqOWNFOMlLH1I" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/quixyofficial-bug-bugs-quixy-fPOm3oqOWNFOMlLH1I">via GIPHY</a></p>
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-gabriel-may-04a618164/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
