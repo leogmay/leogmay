@@ -8,8 +8,9 @@
 </div>
 
 
-* 🌱 I'm a student, dreaming about studying abroad!!
+* 🌱 I'm currently studying Software Development, dreaming about studying abroad!
 * 🔭 Still not working on IT, but doing my best.
+* ⌛  Developing Front-end Skills, HTML + CSS.
 * ⚡ Curiosity? I'm Brazilian but also Luxembourger.
 * 💬 Ask me about **Java, HTML, CSS, English for Devs.** 
 
