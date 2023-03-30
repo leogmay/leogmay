@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Olá!  Leonardo May  </h1>
+<h1 align="center"> Hello, Sailor!  Leonardo May  </h1>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 * 🌱 I'm a student, dreaming about studying abroad!!
 * 🔭 Still not working on IT, but doing my best.
 * ⚡ Curiosity? I'm Brazilian but also Luxembourger.
-* 💬 Ask me about **Java, English for Devs.** 
+* 💬 Ask me about **Java, HTML, CSS, English for Devs.** 
 
 
 ##
